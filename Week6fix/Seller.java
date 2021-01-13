@@ -1,4 +1,4 @@
-package Week6;
+package Week6fix;
 
 public class Seller extends Person{
     String product;

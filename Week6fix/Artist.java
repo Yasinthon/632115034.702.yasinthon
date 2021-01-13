@@ -1,4 +1,4 @@
-package Week6;
+package Week6fix;
 
 public class Artist extends Person{
     String genre;
