@@ -15,6 +15,8 @@ public class InstanceOfDemo {
         A a = new A();
         B b = new B();
         Object c = new C();
+        System.out.println(a instanceof B);
+        System.out.println(b instanceof B);
         System.out.println(c instanceof B);
     }
 }
